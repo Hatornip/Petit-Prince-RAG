@@ -40,6 +40,3 @@ Ce projet démontre l'implémentation d'un système Retrieval-Augmented Generati
 1.  Dans "main.py" il vous faut modifier le prompt pour poser vos questions, donc ligne 44 prompt par défaut "Qui es le Petit Prince ?"
 2.  Exécuter le script principal : `python main.py`
 3.  Les réponses seront générées par Gemma 3B en utilisant les informations extraites du texte.
-
-## Structure du Projet
-
